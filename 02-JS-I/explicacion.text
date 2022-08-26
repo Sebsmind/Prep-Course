@@ -1,0 +1,7 @@
+Variables: Es como una etiqueta que le asigno a algo que necesito utilizar
+Strings: son letras, palabras o caracteres que quiero utilizar como texto
+Funciones: Son como acciones que necesito realizar, como sacar la basura, pero dentro de las funciones especifico que debo realizar para poder sacar la basura
+Argumentos: son los objetos que necesito identificar, si tengo que sacar la basura, entonces necesito una bolsa de basura y la basura.
+Return: Sirve para poder pedirle a la funcion un resultado segùn lo que necesite hacer.
+If: Me ayuda a preveer situaciones y los resultados de esas situaciones. En el ejemplo de la basura seria si voy a sacar la basura y esta cerrado el deposito que puedo hacer, devolverme a la casa o preguntar en la porteria. Y que respuesta puedo recibir.
+Boleanos: Me ayuda a obtener una respuesta a la accion que quiero realizar, me indica si pude sacar la basura o si no lo logre hacer.  
